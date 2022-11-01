@@ -1,0 +1,4 @@
+co\edu\escuelaing\secure\entities\User.class
+co\edu\escuelaing\secure\Logger\Logger.class
+co\edu\escuelaing\secure\otherservice\Authenticate.class
+co\edu\escuelaing\secure\Sparkweb.class
